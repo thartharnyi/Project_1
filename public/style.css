@@ -1,0 +1,10 @@
+.container{
+    margin: auto;
+    max-width: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+body{
+    background-color: rgb(129, 15, 216);
+}
